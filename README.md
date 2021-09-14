@@ -1,5 +1,4 @@
-# CourseWork_Foundations-of-Business-Analytics
-SUMMARY
+# SUMMARY
 BANA 200 Foundations of Business Analytics was taught by Stephen A. Samaha, PhD for MSBA program in UC Irvine, summer 2021. 
 
 The Take Home Final includes challenges:
